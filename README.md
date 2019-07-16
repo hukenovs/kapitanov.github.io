@@ -1,8 +1,10 @@
 ## Kapitanov Alexander
 
-About myself: FPGA engineer, programmer and math analyst. 7+ years in hardware development and math analysis (digital signal processing).
+About myself:  
+FPGA engineer, programmer and math analyst. 7+ years in hardware development and math analysis (digital signal processing).
 
-Interests: Math, Machine Learning, Data Science, AI, Education, Software / Hardware development R&D.
+Interests:  
+Math & science, Machine Learning, Data Science, AI, Education, Software & Hardware development, R&D.
 
 |                     |                      |
 | :---------------    |:-------------        |
@@ -11,12 +13,12 @@ Interests: Math, Machine Learning, Data Science, AI, Education, Software / Hardw
 | **Residence**       | Russia, Moscow       |
 | **E-mail**          | <sallador@bk.ru>     |
 | **Languages**       | Python, C++, VHDL/Verilog, Tcl/Tk, JS, HTML, CSS, etc. |
-| **Current job**     | "[AO Insys](insys.ru)" |
+| **Current job**     | "[AO Insys](http://www.insys.ru)" |
 | **Speak**           | Russian, English (B2) |
 
 ### Languages / Utilities
 
-- FPGA: VHDL, Verilog, HLS (Vivado HLS) 
+- FPGA: VHDL, Verilog, HLS 
 - Math: MATLAB / Octave 
 - Python (numpy / scipy, pandas, matplotlib, Jupiter) 
 - C++ 
@@ -39,16 +41,16 @@ ____
 
 | **Name** | **Role** | **Year** |
 | :-- | :-- | :-- |
-| [AO "Insys"](insys.ru) | Junior Hardware engineer | Aug. 2012 - Oct. 2012 |
-| [AO "Insys"](insys.ru) | Lead FPGA Developer | Jan. 2013 - Present |
+| AO "Insys" | Junior Hardware engineer | Aug. 2012 - Oct. 2012 |
+| AO "Insys" | Lead FPGA Developer | Jan. 2013 - Present |
 
-#### [AO "Insys"](insys.ru) Aug. 2012 - Oct. 2012
+#### AO "Insys": Aug. 2012 - Oct. 2012
 
 - Russia, Moscow
 - Aug. 2012 - Oct. 2012
 - Junior Hardware engineer
 
-#### [AO "Insys"](insys.ru) Jan. 2013 - Present
+#### AO "Insys": Jan. 2013 - Present
 
 - Russia, Moscow
 - Jan. 2013 - Present
@@ -62,12 +64,12 @@ ____
 * Good knowledge of hardware languages: VHDL / Verilog
 * Understanding of FPGA full cycle development
 * Vendor-dependent code optimization for FPGA (Xilinx / Altera)
-* Custom IP-core development
+* Custom IP-core and open-source development
 * Complex Area designs: more than 90% FPGA resources utilization
 * High-speed designs: multi-clock systems with more than 500 MHz clock frequency
 * Digital signal processing: arithmetic implementation and optimization
-* Digital signal processing for multi-channel / high-resolution ADCs / DACs up to 6GHz
 * Algorithm optimization to meet desired requirements / limitations
+* Digital signal processing for multi-channel / high-resolution ADCs / DACs up to 6GHz
 * Performance / Area FPGA design optimization, Advanced XDC & STA
 * Verification and production testing
 * Job routine optimization by using TCL / Python scripts
@@ -126,7 +128,7 @@ List of my open source python projects:
 - [Stupid Watch (FPGA 4fun project)](https://habr.com/en/post/274843/)
 - [Minesweeper (FPGA 4fun project)](https://habr.com/en/post/274841/)
 
-Author of numerous articles and participant in exhibitions and conferences on digital signal processing:
+Author of some articles and participant in exhibitions and conferences on digital signal processing:
 
 ### Speaker (technical conferences)
 
