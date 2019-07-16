@@ -1,0 +1,2 @@
+# kapitanov-cv
+Резюме
