@@ -18,23 +18,23 @@ Math & science, Machine Learning, Data Science, AI, Education, Software & Hardwa
 
 ### Languages / Utilities
 
-- FPGA: VHDL, Verilog, HLS 
-- Math: MATLAB / Octave 
-- Python (numpy / scipy, pandas, matplotlib, Jupiter) 
-- C++ 
-- Tcl/Tk 
-- git, bash 
-- Web: Javascript, HTML, CSS
+- **Python**: Numpy / scipy, pandas, matplotlib, seaborn, Jupiter
+- **Math**: MATLAB / Octave / MathCAD
+- **FPGA** / DSP: VHDL, Verilog, HLS
+- **Web**: Javascript, HTML, CSS
 - Latex / Markdown
-- SQL (base knowledge)
+- git, bash
+- Tcl/Tk
+- C++
+- SQL (basic knowledge)
  
 ### Personal skills
 
-* Good inter-personal and planning skills 
-* Critical thinking & Troubleshooting skills 
-* Desire to learn & Self-motivated to win 
-* Willingness to learn 
-* Logical thinking & Flexibility 
+* Good inter-personal and planning skills
+* Critical thinking & Troubleshooting skills
+* Desire to learn & Self-motivated to win
+* Willingness to learn
+* Logical thinking & Flexibility
 ____
 
 ### Job Experience
@@ -78,7 +78,7 @@ ____
 * High-level synthesis for DSP tasks (Vivado HLS)
 * Partial Reconfiguration for Xilinx FPGAs: 7-Series, Ultrascale, Ultrascale+
 * AXI-Stream, AXI-lite, custom interfaces design
-* SVN / Git, Readmine, Slack
+* SVN / Git, Redmine, Slack
 * Digital schemes development (Altium Designer)
 * Software applications (C++, Qt sometimes)
 * Create corporate style and documentation for company
@@ -108,27 +108,30 @@ ____
 
 List of my open source python projects:
 
-- [Python Tutorial: scipy, pandas, matplotlib](https://github.com/capitanov/py-tutorial)
+- [Headhunter hh.ru analyze](https://github.com/capitanov/hh_research)
 - [Digital signal processing: Course](https://github.com/capitanov/dsp-theory)
 - [Chaotic Attractors](https://github.com/capitanov/chaospy)
 - [Math scripts for DSP](https://github.com/capitanov/dsppy)
+- [Python. My tutorials: scipy, pandas, matplotlib](https://github.com/capitanov/py-tutorial)
 
 ### [Publications](https://habr.com/users/capitanov/)
 
-- [Window filtration by FPGA](https://habr.com/en/post/427361/) 
-- [Custom fixed point FFT/IFFT](https://habr.com/en/post/420517/) 
-- [Custom floating-point FFT/IFFT](https://habr.com/en/post/322728/) 
-- [Spectrum correction by using FIR filters](https://habr.com/en/post/324986/) 
-- [Universal ADC / DAC configurator for FPGA](https://habr.com/en/post/313692/) 
-- [TCL scripting for FPGA](https://habr.com/en/post/308962/) 
-- [Custom floating point formats for Xilinx FPGA](https://habr.com/en/post/279269/) 
-- [Chaotic attractors application](https://habr.com/en/post/273915/) 
-- [Digital signal processing 1: CIC filters](https://habr.com/en/post/274845/) 
-- [Digital signal processing 2: FIR filters](https://habr.com/en/post/274847/) 
+- [Digital signal processing - Course](https://habr.com/ru/post/460445/)
+- [Window filtration by FPGA](https://habr.com/en/post/427361/)
+- [Custom fixed point FFT/IFFT](https://habr.com/en/post/420517/)
+- [Custom floating-point FFT/IFFT](https://habr.com/en/post/322728/)
+- [Spectrum correction by using FIR filters](https://habr.com/en/post/324986/)
+- [Universal ADC / DAC configurator for FPGA](https://habr.com/en/post/313692/)
+- [TCL scripting for FPGA](https://habr.com/en/post/308962/)
+- [Custom floating point formats for Xilinx FPGA](https://habr.com/en/post/279269/)
+- [Chaotic attractors application](https://habr.com/en/post/273915/)
+- [Digital signal processing 1: CIC filters](https://habr.com/en/post/274845/)
+- [Digital signal processing 2: FIR filters](https://habr.com/en/post/274847/)
 - [Stupid Watch (FPGA 4fun project)](https://habr.com/en/post/274843/)
 - [Minesweeper (FPGA 4fun project)](https://habr.com/en/post/274841/)
 
-Author of some articles and participant in exhibitions and conferences on digital signal processing:
+
+Author of some technical articles and participant in exhibitions and conferences on digital signal processing:
 
 ### Speaker (technical conferences)
 
