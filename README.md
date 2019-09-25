@@ -18,14 +18,14 @@ Math & science, Machine Learning, Data Science, AI, Education, Software & Hardwa
 
 ### Languages / Utilities
 
-- **Python**: Numpy / scipy, pandas, matplotlib, seaborn, Jupiter
+- **Python**: numpy / scipy, pandas, matplotlib, seaborn, Jupyter Notebook
 - **Math**: MATLAB / Octave / MathCAD
-- **FPGA** / DSP: VHDL, Verilog, HLS
+- **FPGA / DSP**: VHDL, Verilog, HLS
 - **Web**: Javascript, HTML, CSS
 - Latex / Markdown
-- git, bash
-- Tcl/Tk
-- C++
+- git, svn, slack
+- Tcl/Tk, bash
+- C++ (basic knowledge)
 - SQL (basic knowledge)
  
 ### Personal skills
