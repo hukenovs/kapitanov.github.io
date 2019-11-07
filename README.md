@@ -1,57 +1,60 @@
 ## Kapitanov Alexander
 
 About myself:  
-FPGA engineer, programmer and math analyst. 7+ years in hardware development and math analysis (digital signal processing).
+Lead FPGA engineer, programmer and math analyst with over 7 years in Hardware Development and Math Analysis (digital signal processing) based on FPGA and microcontrollers.
 
 Interests:  
-Math & science, Machine Learning, Data Science, AI, Education, Software & Hardware development, R&D.
+Math & Science, Machine Learning, Data Science, AI, Education, Software & Hardware development, R&D.
 
 |                     |                      |
 | :---------------    |:-------------        |
 | **Name**            | Kapitanov Alexander  |
-| **Education**       | Moscow Power Engineering Institute, Signal Processing Specialization (DSP) |
+| **Education**       | [Moscow Power Engineering Institute](https://mpei.ru/) |
+| **Specialization**  | Radio engineering, Signal Processing Specialization |
 | **Residence**       | Russia, Moscow       |
 | **E-mail**          | <sallador@bk.ru>     |
 | **Languages**       | Python, C++, VHDL/Verilog, Tcl/Tk, JS, HTML, CSS, etc. |
-| **Current job**     | "[AO Insys](http://www.insys.ru)" |
+| **Current job**     | [AO Insys](http://www.insys.ru) |
 | **Speak**           | Russian, English (B2) |
 
 ### Languages / Utilities
-
-- **Python**: numpy / scipy, pandas, matplotlib, seaborn, Jupyter Notebook
-- **Math**: MATLAB / Octave / MathCAD
-- **FPGA / DSP**: VHDL, Verilog, HLS
+- **Python**: 
+  *  sklearn (scikit-learn)
+  *  keras
+  *  TensorFlow
+  *  numpy / scipy
+  *  pandas
+  *  matplotlib, seaborn 
+  *  Jupyter Notebook 
+  *  Django
+- **Math**: MATLAB / GNU Octave
+- **FPGA / DSP**: VHDL, Verilog, HLS (High-level synthesis)
 - **Web**: Javascript, HTML, CSS
+- **C++**
+- Tcl/Tk, bash
 - Latex / Markdown
 - git, svn, slack
-- Tcl/Tk, bash
-- C++ (basic knowledge)
 - SQL (basic knowledge)
  
 ### Personal skills
-
 * Good inter-personal and planning skills
 * Critical thinking & Troubleshooting skills
 * Desire to learn & Self-motivated to win
-* Willingness to learn
 * Logical thinking & Flexibility
 ____
 
 ### Job Experience
-
 | **Name** | **Role** | **Year** |
 | :-- | :-- | :-- |
 | AO "Insys" | Junior Hardware engineer | Aug. 2012 - Oct. 2012 |
 | AO "Insys" | Lead FPGA Developer | Jan. 2013 - Present |
 
 #### AO "Insys": Aug. 2012 - Oct. 2012
-
 - Russia, Moscow
 - Aug. 2012 - Oct. 2012
 - Junior Hardware engineer
 
 #### AO "Insys": Jan. 2013 - Present
-
 - Russia, Moscow
 - Jan. 2013 - Present
 - Lead FPGA Developer
@@ -60,7 +63,6 @@ ____
   * Lead FPGA Developer: Jan. 2017 - Present 
 
 ### FPGA Background
-
 * Good knowledge of hardware languages: VHDL / Verilog
 * Understanding of FPGA full cycle development
 * Vendor-dependent code optimization for FPGA (Xilinx / Altera)
@@ -101,11 +103,10 @@ ____
 - Chaotic attractors: Lorenz, Nose-Hoover, Rossler, Rikitake, Chua, etc.
 - OFDM system for image processing (MATLAB code, master's thesis)
 
-Most of these project you can find as **open source** [solutions on my github](https://github.com/capitanov/).
+Most of these project you can find as **open source** [solutions on my github](https://github.com/capitanov/).  
 ____
 
 ### Python projects 
-
 List of my open source python projects:
 
 - [Headhunter hh.ru analyze](https://github.com/capitanov/hh_research)
@@ -115,7 +116,6 @@ List of my open source python projects:
 - [Python. My tutorials: scipy, pandas, matplotlib](https://github.com/capitanov/py-tutorial)
 
 ### [Publications](https://habr.com/users/capitanov/)
-
 - [Digital signal processing - Course](https://habr.com/ru/post/460445/)
 - [Window filtration by FPGA](https://habr.com/en/post/427361/)
 - [Custom fixed point FFT/IFFT](https://habr.com/en/post/420517/)
@@ -130,18 +130,33 @@ List of my open source python projects:
 - [Stupid Watch (FPGA 4fun project)](https://habr.com/en/post/274843/)
 - [Minesweeper (FPGA 4fun project)](https://habr.com/en/post/274841/)
 
+____
+
+### Courses and certificates
+#### ML & DA Specialization
+[Coursera Machine learning & data analysis (Yandex & MIPT)](https://www.coursera.org/specializations/machine-learning-data-analysis "Coursera ML & DA")
+- [Course 1: Math and Python for data analysis](https://www.coursera.org/account/accomplishments/records/L4BGW84C79RA "Math and Python for data analysis")
+- [Course 2: Supervised Learning](https://www.coursera.org/account/accomplishments/records/AXR6626EMUJ3 "Supervised Learning")
+- [Course 3: Unsupervised_Learning](https://www.coursera.org/account/accomplishments/records/HSK4UU584858 "Unsupervised_Learning")
+- [Course 4: Stats for Data Analysis](https://www.coursera.org/account/accomplishments/records/KQTZ2CDRJ5UH "Stats for Data Analysis")
+
+#### Xilinx Coursers
+[Xilinx Russian Training Center](https://plis2.ru/training.html "Xilinx Russian Training Center")
+- C-based Design: High Level Synthesis
+- Vivado Design Suite Static Timing Analysis
+- Xilinx Partial Reconfiguration and Advanced Vivado Technics
+- Embedded System Design
 
 Author of some technical articles and participant in exhibitions and conferences on digital signal processing:
 
 ### Speaker (technical conferences)
-
 Speaker on the following scientific and technical conferences (Russian text as is without translation):
 
 | Date | Description 
-| :----------   |:-------------        |
-| 7 Apr 2016    | Центр современной электроники, Семинар «Цифровая обработка сигналов: самое важное из новых технологий»  |
-| 19 Oct 2016   | Центр современной электроники, Семинар "Обработка и передача цифровых данных в устройствах на ПЛИС" |
-| 21 Dec 2016   | Центр современной электроники, Семинар "Разработка высокоскоростных устройств сбора, обработки и формирования радиосигналов" |
-| 25 Apr 2017   | MATLAB, Трехдневная конференция "Технологии разработки и отладки сложных технических систем" |
-| 30 Nov 2017   | Центр современной электроники, Обработка и передача данных в модульной аппаратуре |
-| 27 Mar 2018   | MATLAB, Двухдневная конференция "Технологии разработки и отладки сложных технических систем" |
+| :----------   |:------------- |
+| 7 Apr 2016    | [Центр современной электроники](http://www.sovel.org), Семинар «Цифровая обработка сигналов: самое важное из новых технологий»  |
+| 19 Oct 2016   | [Центр современной электроники](http://www.sovel.org), Семинар "Обработка и передача цифровых данных в устройствах на ПЛИС" |
+| 21 Dec 2016   | [Центр современной электроники](http://www.sovel.org), Семинар "Разработка высокоскоростных устройств сбора, обработки и формирования радиосигналов" |
+| 25 Apr 2017   | [MATLAB](https://www.mathworks.com), [Exponenta](https://exponenta.ru), Трехдневная конференция "Технологии разработки и отладки сложных технических систем" |
+| 30 Nov 2017   | [Центр современной электроники](http://www.sovel.org), Семинар «Обработка и передача данных в модульной аппаратуре» |
+| 27 Mar 2018   | [MATLAB](https://www.mathworks.com), [Exponenta](https://exponenta.ru), Двухдневная конференция "Технологии разработки и отладки сложных технических систем" |
