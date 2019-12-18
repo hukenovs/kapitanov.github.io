@@ -13,7 +13,7 @@ Math & Science, Machine Learning, Data Science, AI, Education, Software & Hardwa
 | **Specialization**  | Radio engineering, Signal Processing Specialization |
 | **Residence**       | Russia, Moscow       |
 | **E-mail**          | <sallador@bk.ru>     |
-| **Languages**       | Python, C++, VHDL/Verilog, Tcl/Tk, JS, HTML, CSS, etc. |
+| **Languages**       | Python, SQL, C++, VHDL/Verilog, Tcl/Tk, JS, HTML, CSS, etc. |
 | **Current job**     | [AO Insys](http://www.insys.ru) |
 | **Speak**           | Russian, English (B2) |
 
@@ -21,20 +21,20 @@ Math & Science, Machine Learning, Data Science, AI, Education, Software & Hardwa
 - **Python**: 
   *  sklearn (scikit-learn)
   *  keras
-  *  TensorFlow
   *  numpy / scipy
   *  pandas
-  *  matplotlib, seaborn 
-  *  Jupyter Notebook 
-  *  Django
+  *  matplotlib, seaborn
+  *  Jupyter Notebook
+  *  *Django*
 - **Math**: MATLAB / GNU Octave
 - **FPGA / DSP**: VHDL, Verilog, HLS (High-level synthesis)
 - **Web**: Javascript, HTML, CSS
 - **C++**
+- **SQL** (basic knowledge)
 - Tcl/Tk, bash
 - Latex / Markdown
-- git, svn, slack
-- SQL (basic knowledge)
+- Docker, git / SVN, Slack, Redmine etc.
+
  
 ### Personal skills
 * Good inter-personal and planning skills
@@ -139,12 +139,16 @@ ____
 - [Course 2: Supervised Learning](https://www.coursera.org/account/accomplishments/records/AXR6626EMUJ3 "Supervised Learning")
 - [Course 3: Unsupervised_Learning](https://www.coursera.org/account/accomplishments/records/HSK4UU584858 "Unsupervised_Learning")
 - [Course 4: Stats for Data Analysis](https://www.coursera.org/account/accomplishments/records/KQTZ2CDRJ5UH "Stats for Data Analysis")
+- [Course 5: Data Analysis Applications](https://www.coursera.org/account/accomplishments/records/L7HMXKP9EKN2 "Data Analysis Applications")
+- [Course 6: Data Analysis: final project](https://www.coursera.org/account/accomplishments/records/U99XKAU4YYAR "Data Analysis: final project")
+- [Specialization: ML & DA](https://www.coursera.org/account/accomplishments/records/DC6QPH6QR2V7 "Specialization: ML & DA")
 
 #### Xilinx Coursers
 [Xilinx Russian Training Center](https://plis2.ru/training.html "Xilinx Russian Training Center")
 - C-based Design: High Level Synthesis
 - Vivado Design Suite Static Timing Analysis
-- Xilinx Partial Reconfiguration and Advanced Vivado Technics
+- Xilinx Partial Reconfiguration Tools & Techniques
+- Advanced Tools and Techniques of Vivado Design Suite
 - Embedded System Design
 
 Author of some technical articles and participant in exhibitions and conferences on digital signal processing:
