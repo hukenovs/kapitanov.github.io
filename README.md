@@ -13,7 +13,7 @@ Math & Science, Machine Learning, Data Science, AI, Education, Software & Hardwa
 | **Specialization**  | Radio engineering, Signal Processing Specialization |
 | **Residence**       | Russia, Moscow       |
 | **E-mail**          | <sallador@bk.ru>     |
-| **Languages**       | Python, SQL, C++, VHDL/Verilog, Tcl/Tk, JS, HTML, CSS, etc. |
+| **Languages**       | Python, SQL, C++, VHDL/Verilog, Tcl/Tk, JS, HTML/CSS, etc. |
 | **Current job**     | [AO Insys](http://www.insys.ru) |
 | **Speak**           | Russian, English (B2) |
 
@@ -35,7 +35,6 @@ Math & Science, Machine Learning, Data Science, AI, Education, Software & Hardwa
 - Latex / Markdown
 - Docker, git / SVN, Slack, Redmine etc.
 
- 
 ### Personal skills
 * Good inter-personal and planning skills
 * Critical thinking & Troubleshooting skills
@@ -141,7 +140,7 @@ ____
 - [Course 4: Stats for Data Analysis](https://www.coursera.org/account/accomplishments/records/KQTZ2CDRJ5UH "Stats for Data Analysis")
 - [Course 5: Data Analysis Applications](https://www.coursera.org/account/accomplishments/records/L7HMXKP9EKN2 "Data Analysis Applications")
 - [Course 6: Data Analysis: final project](https://www.coursera.org/account/accomplishments/records/U99XKAU4YYAR "Data Analysis: final project")
-- [Specialization: ML & DA](https://www.coursera.org/account/accomplishments/records/DC6QPH6QR2V7 "Specialization: ML & DA")
+- [Specialization: ML & DA](https://www.coursera.org/account/accomplishments/specialization/DC6QPH6QR2V7 "Specialization: ML & DA")
 
 #### Xilinx Coursers
 [Xilinx Russian Training Center](https://plis2.ru/training.html "Xilinx Russian Training Center")
