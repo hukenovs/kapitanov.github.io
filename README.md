@@ -19,47 +19,44 @@ Math & Science, Machine Learning, Data Science, AI, Education, Software & Hardwa
 
 ### Languages / Utilities
 - **Python**: 
-  *  sklearn (scikit-learn)
-  *  keras
-  *  numpy / scipy
-  *  pandas
-  *  matplotlib, seaborn
-  *  Jupyter Notebook
-  *  *Django*
+  * sklearn, keras, tensorflow, pytorch, numpy, scipy, open-cv, pyqt, pyside, pandas, librosa, ntlk, gensim, matplotlib, seaborn, etc.
 - **Math**: MATLAB / GNU Octave
 - **FPGA / DSP**: VHDL, Verilog, HLS (High-level synthesis)
 - **Web**: Javascript, HTML, CSS
 - **C++**
-- **SQL** (basic knowledge)
+- **SQL**
 - Tcl/Tk, bash
 - Latex / Markdown
-- Docker, git / SVN, Slack, Redmine etc.
+- Docker, git / svn, Slack, Redmine, trello, etc.
 
 ### Personal skills
 * Good inter-personal and planning skills
 * Critical thinking & Troubleshooting skills
 * Desire to learn & Self-motivated to win
-* Logical thinking & Flexibility
+* Flexibility and Leadership skills
 ____
 
 ### Job Experience
 | **Name** | **Role** | **Year** |
 | :-- | :-- | :-- |
 | AO "Insys" | Junior Hardware engineer | Aug. 2012 - Oct. 2012 |
-| AO "Insys" | Lead FPGA Developer | Jan. 2013 - Present |
+| AO "Insys" | Lead FPGA Developer | Jan. 2013 - Jan 2020 |
+| Sberbank | Senior Data Scientist | Feb. 2020 - Present |
 
 #### AO "Insys": Aug. 2012 - Oct. 2012
 - Russia, Moscow
-- Aug. 2012 - Oct. 2012
 - Junior Hardware engineer
 
-#### AO "Insys": Jan. 2013 - Present
+#### AO "Insys": Jan. 2013 - Jan. 2020
 - Russia, Moscow
-- Jan. 2013 - Present
 - Lead FPGA Developer
   * Middle FPGA Developer: Jan. 2013 - Jan. 2015 
   * Senior FPGA Developer: Jan. 2015 - Jan. 2017 
-  * Lead FPGA Developer: Jan. 2017 - Present 
+  * Lead FPGA Developer: Jan. 2017 - Jan. 2020 
+
+#### Sberbank: Feb. 2020 - Present
+- Russia, Moscow
+- Senior Data Scientist
 
 ### FPGA Background
 * Good knowledge of hardware languages: VHDL / Verilog
