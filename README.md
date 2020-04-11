@@ -12,9 +12,9 @@ Math & Science, Machine Learning, Data Science, AI, Education, Software & Hardwa
 | **Education**       | [Moscow Power Engineering Institute](https://mpei.ru/) |
 | **Specialization**  | Radio engineering, Signal Processing Specialization |
 | **Residence**       | Russia, Moscow       |
-| **E-mail**          | <sallador@bk.ru>     |
-| **Languages**       | Python, SQL, C++, VHDL/Verilog, Tcl/Tk, JS, HTML/CSS, etc. |
-| **Current job**     | [AO Insys](http://www.insys.ru) |
+| **E-mail**          | `hidden`             |
+| **Languages**       | Python, C++, SQL, VHDL/Verilog, Tcl/Tk, JS, HTML/CSS, etc. |
+| **Current job**     | SBRF |
 | **Speak**           | Russian, English (B2) |
 
 ### Languages / Utilities
@@ -39,8 +39,8 @@ ____
 ### Job Experience
 | **Name** | **Role** | **Year** |
 | :-- | :-- | :-- |
-| AO "Insys" | Junior Hardware engineer | Aug. 2012 - Oct. 2012 |
-| AO "Insys" | Lead FPGA Developer | Jan. 2013 - Jan 2020 |
+| [AO "Insys"](http://www.insys.ru) | Junior Hardware engineer | Aug. 2012 - Oct. 2012 |
+| [AO "Insys"](http://www.insys.ru) | Lead FPGA Developer | Jan. 2013 - Jan 2020 |
 | Sberbank | Senior Data Scientist | Feb. 2020 - Present |
 
 #### AO "Insys": Aug. 2012 - Oct. 2012
