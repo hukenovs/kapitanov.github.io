@@ -39,9 +39,9 @@ ____
 
 | **Name** | **Last Role** | **Year** |
 | :-- | :-- | :-- |
-| [AO "Insys"](www.insys.ru) | Junior Hardware engineer | Aug. 2012 - Oct. 2012 |
-| [AO "Insys"](www.insys.ru) | Lead FPGA Developer | Jan. 2013 - Jan 2020 |
-| [Sberbank](www.sberbank.ru) | Senior Data Scientist | Feb. 2020 - Present |
+| [AO "Insys"](http://www.insys.ru) | Junior Hardware engineer | Aug. 2012 - Oct. 2012 |
+| [AO "Insys"](http://www.insys.ru) | Lead FPGA Developer | Jan. 2013 - Jan 2020 |
+| [Sberbank](https://www.sberbank.ru) | Senior Data Scientist | Feb. 2020 - Present |
 
 #### AO "Insys": Aug. 2012 - Oct. 2012
 - Russia, Moscow
@@ -98,11 +98,11 @@ ____
 
 #### Xilinx Coursers
 [Xilinx Russian Training Center](https://plis2.ru/training.html "Xilinx Russian Training Center")
-- [C-based Design: High Level Synthesis](https://github.com/capitanov/kapitanov.github.io/tree/master/Certificates/Xilinx/C-based_Design_High-Level_Synthesis.png "C-based Design: High Level Synthesis")
-- [Vivado Design Suite Static Timing Analysis](https://github.com/capitanov/kapitanov.github.io/tree/master/Certificates/Xilinx/Static_Timing_Analysis_and_Xilinx_Design_Constraints.png "STA and Xilind Design Constraints")
-- [Xilinx Partial Reconfiguration Tools & Techniques](https://github.com/capitanov/kapitanov.github.io/tree/master/Certificates/Xilinx/Advanced_Tools_and_Techniques_of_Vivado_Design_Suite_Partial_Reconfiguration.png "Partial Reconfiguration")
-- [Advanced Tools and Techniques of Vivado Design Suite](https://github.com/capitanov/kapitanov.github.io/tree/master/Certificates/Xilinx/Advanced_Tools_and_Techniques_of_Vivado_Design_Suite_Partial_Reconfiguration.png "Advanced Tools Vivado")
-- [Embedded System Design](https://github.com/capitanov/kapitanov.github.io/tree/master/Certificates/Xilinx/Embedded_systems_design.png "Embedded System Design")
+- [C-based Design: High Level Synthesis](https://github.com/capitanov/kapitanov.github.io/blob/master/Certificates/Xilinx/C-based_Design_High-Level_Synthesis.png "C-based Design: High Level Synthesis")
+- [Vivado Design Suite Static Timing Analysis](https://github.com/capitanov/kapitanov.github.io/blob/master/Certificates/Xilinx/Static_Timing_Analysis_and_Xilinx_Design_Constraints.png "STA and Xilind Design Constraints")
+- [Xilinx Partial Reconfiguration Tools & Techniques](https://github.com/capitanov/kapitanov.github.io/blob/master/Certificates/Xilinx/Advanced_Tools_and_Techniques_of_Vivado_Design_Suite_Partial_Reconfiguration.png "Partial Reconfiguration")
+- [Advanced Tools and Techniques of Vivado Design Suite](https://github.com/capitanov/kapitanov.github.io/blob/master/Certificates/Xilinx/Advanced_Tools_and_Techniques_of_Vivado_Design_Suite_Partial_Reconfiguration.png "Advanced Tools Vivado")
+- [Embedded System Design](https://github.com/capitanov/kapitanov.github.io/blob/master/Certificates/Xilinx/Embedded_systems_design.png "Embedded System Design")
 
 ____
 ### Python projects
