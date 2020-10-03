@@ -1,10 +1,10 @@
 ## Kapitanov Alexander
 
 About myself:  
-Lead FPGA engineer, programmer and math analyst with over 7 years in Hardware Development and Math Analysis (Digital Signal Processing) based on FPGA and microcontrollers.
+Deep Learning Engineer. Ex. Lead FPGA engineer, programmer and math analyst with over 7 years in Hardware Development and Math Analysis (Digital Signal Processing) based on FPGAs & microcontrollers.
 
 Interests:  
-Math & Science, Machine Learning, Data Science, AI, Education, Software & Hardware development, R&D.
+Machine Learning, Data Science, AI, Math & Science, Education, Software & Hardware development, R&D.
 
 |                     |                      |
 | :---------------    |:-------------        |
@@ -13,21 +13,20 @@ Math & Science, Machine Learning, Data Science, AI, Education, Software & Hardwa
 | **Specialization**  | Radio engineering, Signal Processing Specialization |
 | **Residence**       | Russia, Moscow       |
 | **E-mail**          | `hidden`             |
-| **Languages**       | Python, C++, SQL, VHDL/Verilog, Tcl/Tk, JS, HTML/CSS, etc. |
+| **Main Languages**  | Python, VHDL/Verilog, Tcl/Tk, C++, SQL, JS, HTML/CSS, etc. |
 | **Current job**     | SBRF |
 | **Speak**           | Russian, English (B2) |
 
 ### Languages / Utilities
-- **Python**: 
-  * sklearn, keras, tensorflow, pytorch, numpy, scipy, open-cv, pyqt, pyside, pandas, librosa, ntlk, gensim, matplotlib, seaborn, etc.
-- **Math**: MATLAB / GNU Octave
+- **Python**: main ML / DL frameworks, OpenCV, PyQt, unittests, etc.
 - **FPGA / DSP**: VHDL, Verilog, HLS (High-level synthesis)
-- **Web**: Javascript, HTML, CSS
+- **Math**: MATLAB / GNU Octave
 - **C++**
+- **Web**: Javascript, HTML, CSS
 - **SQL**
 - Tcl/Tk, bash
 - Latex / Markdown
-- Docker, git / svn, Slack, Redmine, trello, etc.
+- Docker, git / svn, git hooks, slack, redmine, trello, etc.
 
 ### Personal skills
 * Good inter-personal and planning skills
@@ -37,11 +36,12 @@ Math & Science, Machine Learning, Data Science, AI, Education, Software & Hardwa
 ____
 
 ### Job Experience
+
 | **Name** | **Last Role** | **Year** |
 | :-- | :-- | :-- |
-| [AO "Insys"](http://www.insys.ru) | Junior Hardware engineer | Aug. 2012 - Oct. 2012 |
-| [AO "Insys"](http://www.insys.ru) | Lead FPGA Developer | Jan. 2013 - Jan 2020 |
-| Sberbank | Senior Data Scientist | Feb. 2020 - Present |
+| [AO "Insys"](www.insys.ru) | Junior Hardware engineer | Aug. 2012 - Oct. 2012 |
+| [AO "Insys"](www.insys.ru) | Lead FPGA Developer | Jan. 2013 - Jan 2020 |
+| [Sberbank](www.sberbank.ru) | Senior Data Scientist | Feb. 2020 - Present |
 
 #### AO "Insys": Aug. 2012 - Oct. 2012
 - Russia, Moscow
@@ -58,16 +58,8 @@ ____
 - Russia, Moscow
   * Senior Data Scientist: Feb. 2020 - Present
 
-### Python projects 
-List of my open source python projects:
-
-- [Headhunter hh.ru analyze](https://github.com/capitanov/hh_research)
-- [Digital signal processing: Course](https://github.com/capitanov/dsp-theory)
-- [Chaotic Attractors](https://github.com/capitanov/chaospy)
-- [Math scripts for DSP](https://github.com/capitanov/dsppy)
-- [Python. My tutorials: scipy, pandas, matplotlib](https://github.com/capitanov/py-tutorial)
-
-### [Publications](https://habr.com/users/capitanov/)
+____
+### [Publications (habr.com)](https://habr.com/users/capitanov/)
 - [Digital signal processing - Course](https://habr.com/ru/post/460445/)
 - [Window filtration by FPGA](https://habr.com/en/post/427361/)
 - [Custom fixed point FFT/IFFT](https://habr.com/en/post/420517/)
@@ -85,23 +77,41 @@ List of my open source python projects:
 ____
 
 ### Courses and certificates
-#### ML & DA Specialization
-[Coursera Machine learning & data analysis (Yandex & MIPT)](https://www.coursera.org/specializations/machine-learning-data-analysis "Coursera ML & DA")
+#### Machine Learning & Data Analysis - Specialization
+[Coursera: Machine learning & data analysis (Yandex & MIPT)](https://www.coursera.org/specializations/machine-learning-data-analysis "Coursera ML & DA")
 - [Course 1: Math and Python for data analysis](https://www.coursera.org/account/accomplishments/records/L4BGW84C79RA "Math and Python for data analysis")
 - [Course 2: Supervised Learning](https://www.coursera.org/account/accomplishments/records/AXR6626EMUJ3 "Supervised Learning")
 - [Course 3: Unsupervised_Learning](https://www.coursera.org/account/accomplishments/records/HSK4UU584858 "Unsupervised_Learning")
 - [Course 4: Stats for Data Analysis](https://www.coursera.org/account/accomplishments/records/KQTZ2CDRJ5UH "Stats for Data Analysis")
 - [Course 5: Data Analysis Applications](https://www.coursera.org/account/accomplishments/records/L7HMXKP9EKN2 "Data Analysis Applications")
 - [Course 6: Data Analysis: final project](https://www.coursera.org/account/accomplishments/records/U99XKAU4YYAR "Data Analysis: final project")
-- [Specialization: ML & DA](https://www.coursera.org/account/accomplishments/specialization/DC6QPH6QR2V7 "Specialization: ML & DA")
+- [Specialization: Machine Learning & Data Analysis](https://www.coursera.org/account/accomplishments/specialization/DC6QPH6QR2V7 "Specialization: ML & DA")
+
+#### Deep Learning - Specialization
+[Coursera: Deep Learning AI (Andrew Ng)](https://www.coursera.org/specializations/deep-learning "Deep Learning AI (Andrew Ng)")
+- [Course 1: Neural Networks and Deep Learning](https://www.coursera.org/account/accomplishments/records/98VC74JAA99K "Neural Networks and Deep Learning")
+- [Course 2: Improving Deep Neural Networks](https://www.coursera.org/account/accomplishments/records/UT4UT7BAB9GZ "Improving Deep Neural Networks")
+- [Course 3: Structuring Machine Learning Projects](https://www.coursera.org/account/accomplishments/records/XQVAWNGLKXDW "Structuring Machine Learning Projects")
+- [Course 4: Convolutional Neural Networks](https://www.coursera.org/account/accomplishments/records/4KKHUXNH66JV "Convolutional Neural Networks")
+- [Course 5: Sequence Models](https://www.coursera.org/account/accomplishments/records/8TCTRRX62HFH "Sequence Models")
+- [Specialization: Deep Learning](https://www.coursera.org/account/accomplishments/specialization/2YTZ8T6CC7P6 "Specialization Deep Learning Specialization")
 
 #### Xilinx Coursers
 [Xilinx Russian Training Center](https://plis2.ru/training.html "Xilinx Russian Training Center")
-- C-based Design: High Level Synthesis
-- Vivado Design Suite Static Timing Analysis
-- Xilinx Partial Reconfiguration Tools & Techniques
-- Advanced Tools and Techniques of Vivado Design Suite
-- Embedded System Design
+- [C-based Design: High Level Synthesis](https://github.com/capitanov/kapitanov.github.io/tree/master/Certificates/Xilinx/C-based_Design_High-Level_Synthesis.png "C-based Design: High Level Synthesis")
+- [Vivado Design Suite Static Timing Analysis](https://github.com/capitanov/kapitanov.github.io/tree/master/Certificates/Xilinx/Static_Timing_Analysis_and_Xilinx_Design_Constraints.png "STA and Xilind Design Constraints")
+- [Xilinx Partial Reconfiguration Tools & Techniques](https://github.com/capitanov/kapitanov.github.io/tree/master/Certificates/Xilinx/Advanced_Tools_and_Techniques_of_Vivado_Design_Suite_Partial_Reconfiguration.png "Partial Reconfiguration")
+- [Advanced Tools and Techniques of Vivado Design Suite](https://github.com/capitanov/kapitanov.github.io/tree/master/Certificates/Xilinx/Advanced_Tools_and_Techniques_of_Vivado_Design_Suite_Partial_Reconfiguration.png "Advanced Tools Vivado")
+- [Embedded System Design](https://github.com/capitanov/kapitanov.github.io/tree/master/Certificates/Xilinx/Embedded_systems_design.png "Embedded System Design")
+
+____
+### Python projects
+List of my open source python projects:
+
+- [Digital signal processing: Course](https://github.com/capitanov/dsp-theory)
+- [Chaotic Attractors](https://github.com/capitanov/chaospy)
+- [Math scripts for DSP](https://github.com/capitanov/dsppy)
+- [Headhunter hh.ru analyze](https://github.com/capitanov/hh_research)
 
 Author of some technical articles and participant in exhibitions and conferences on digital signal processing:
 
