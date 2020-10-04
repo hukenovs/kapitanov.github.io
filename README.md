@@ -96,6 +96,9 @@ ____
 - [Course 5: Sequence Models](https://www.coursera.org/account/accomplishments/records/8TCTRRX62HFH "Sequence Models")
 - [Specialization: Deep Learning](https://www.coursera.org/account/accomplishments/specialization/2YTZ8T6CC7P6 "Specialization Deep Learning Specialization")
 
+#### Deep Learning in CV
+[Coursera: Deep Learning in Computer Vision](https://www.coursera.org/account/accomplishments/certificate/FVUD869EZHKL "Deep Learning in CV")
+
 #### Xilinx Coursers
 [Xilinx Russian Training Center](https://plis2.ru/training.html "Xilinx Russian Training Center")
 - [C-based Design: High Level Synthesis](https://github.com/capitanov/kapitanov.github.io/blob/master/Certificates/Xilinx/C-based_Design_High-Level_Synthesis.png "C-based Design: High Level Synthesis")
