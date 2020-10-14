@@ -97,7 +97,7 @@ ____
 - [Specialization: Deep Learning](https://www.coursera.org/account/accomplishments/specialization/2YTZ8T6CC7P6 "Specialization Deep Learning Specialization")
 
 #### Deep Learning in Computer Vision
-[Coursera: Deep Learning in Computer Vision (HSE)](https://www.coursera.org/account/accomplishments/certificate/FVUD869EZHKL "Deep Learning in CV")
+[Coursera: Deep Learning in Computer Vision (HSE)](https://www.coursera.org/account/accomplishments/certificate/EWTTRB9MR9FB "Deep Learning in CV")
 
 #### Xilinx Coursers
 [Xilinx Russian Training Center](https://plis2.ru/training.html "Xilinx Russian Training Center")
