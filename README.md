@@ -1,10 +1,11 @@
 ## Kapitanov Alexander
 
-About myself:  
-Deep Learning Engineer. Ex. Lead FPGA engineer, programmer and math analyst with over 7 years in Hardware Development and Math Analysis (Digital Signal Processing) based on FPGAs & microcontrollers.
+#### About:
+Deep Learning Engineer (primarily in Computer Vision).  
+Ex. Lead FPGA engineer, programmer and math analyst with over 7 years experience in Hardware Development and Digital Signal Processing based on FPGAs & microcontrollers.
 
-Interests:  
-Machine Learning, Data Science, AI, Math & Science, Education, Software & Hardware development, R&D.
+#### Interests:
+Machine Learning & Deep Learning, Data Science, Math, Software & Hardware Development, R&D.
 
 |                     |                      |
 | :---------------    |:-------------        |
@@ -18,27 +19,26 @@ Machine Learning, Data Science, AI, Math & Science, Education, Software & Hardwa
 | **Speak**           | Russian, English (B2) |
 
 ### Languages / Utilities
-- **Python**: main ML / DL frameworks, OpenCV, PyQt, unittests, etc.
-- **FPGA / DSP**: VHDL, Verilog, HLS (High-level synthesis)
+- **Python**: main ML / DL frameworks, OpenCV, PyQt etc.
+- **FPGA / DSP**: VHDL, Verilog, HLS
 - **Math**: MATLAB / GNU Octave
-- **C++**
-- **Web**: Javascript, HTML, CSS
-- **SQL**
-- Tcl/Tk, bash
-- Latex / Markdown
-- Docker, git / svn, git hooks, slack, redmine, trello, etc.
+- **C++** (a little)
+- **Web**: Js, HTML, CSS
+- **SQL** (a little)
+- Tcl / Tk, Latex, Markdown
+- Docker, git, svn, bash etc.
 
 ### Personal skills
+* Flexibility and Leadership skills
+* Desire to learn & Self-motivated to win
 * Good inter-personal and planning skills
 * Critical thinking & Troubleshooting skills
-* Desire to learn & Self-motivated to win
-* Flexibility and Leadership skills
 ____
 
 ### Job Experience
 
 | **Name** | **Last Role** | **Year** |
-| :-- | :-- | :-- |
+| :---- | :---- | :---- |
 | [AO "Insys"](http://www.insys.ru) | Junior Hardware engineer | Aug. 2012 - Oct. 2012 |
 | [AO "Insys"](http://www.insys.ru) | Lead FPGA Developer | Jan. 2013 - Jan 2020 |
 | [Sberbank](https://www.sberbank.ru) | Senior Data Scientist | Feb. 2020 - Present |
@@ -61,6 +61,7 @@ ____
 ____
 ### [Publications (habr.com)](https://habr.com/users/capitanov/)
 - [Digital signal processing - Course](https://habr.com/ru/post/460445/)
+- [Ultra-long FFT implementation based on FPGA](https://habr.com/ru/post/526690/)
 - [Window filtration by FPGA](https://habr.com/en/post/427361/)
 - [Custom fixed point FFT/IFFT](https://habr.com/en/post/420517/)
 - [Custom floating-point FFT/IFFT](https://habr.com/en/post/322728/)
@@ -108,13 +109,12 @@ ____
 - [Embedded System Design](https://github.com/capitanov/kapitanov.github.io/blob/master/Certificates/Xilinx/Embedded_systems_design.png "Embedded System Design")
 
 ____
-### Python projects
-List of my open source python projects:
+### Python pet-projects
 
-- [Digital signal processing: Course](https://github.com/capitanov/dsp-theory)
-- [Chaotic Attractors](https://github.com/capitanov/chaospy)
-- [Math scripts for DSP](https://github.com/capitanov/dsppy)
+- [Digital Signal Processing: Lectures (Python)](https://github.com/capitanov/dsp-theory)
+- [Chaotic Attractors in Python](https://github.com/capitanov/chaospy)
 - [Headhunter hh.ru analyze](https://github.com/capitanov/hh_research)
+- [Math scripts for DSP](https://github.com/capitanov/dsppy)
 
 Author of some technical articles and participant in exhibitions and conferences on digital signal processing:
 
