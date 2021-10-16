@@ -1,11 +1,11 @@
 ## Kapitanov Alexander
 
 #### About:
-Deep Learning Engineer (primarily in Computer Vision).  
-Ex. Lead FPGA engineer, programmer and math analyst with over 7 years experience in Hardware Development and Digital Signal Processing based on FPGAs & microcontrollers.
+Lead Deep Learning Engineer (primarily in Computer Vision).  
+Ex. Lead FPGA engineer, programmer and math analyst with over 7 years experience in Hardware Development and Digital Signal Processing based on FPGAs & SOCs.
 
 #### Interests:
-Machine Learning & Deep Learning, Data Science, Math, Software & Hardware Development, R&D.
+ML & DL, Data Science, math, software & hardware development, R&D.
 
 |                     |                      |
 | :---------------    |:-------------        |
@@ -14,19 +14,18 @@ Machine Learning & Deep Learning, Data Science, Math, Software & Hardware Develo
 | **Specialization**  | Radio engineering, Signal Processing Specialization |
 | **Residence**       | Russia, Moscow       |
 | **E-mail**          | `hidden`             |
-| **Main Languages**  | Python, VHDL/Verilog, Tcl/Tk, C++, SQL, JS, HTML/CSS, etc. |
+| **Main Languages**  | Python, VHDL/Verilog, Tcl/Tk, C++, sql, etc. |
 | **Current job**     | SBRF |
-| **Speak**           | Russian, English (B2) |
+| **Can speak**       | Russian (native), English (B2) |
 
-### Languages / Utilities
-- **Python**: main ML / DL frameworks, OpenCV, PyQt etc.
-- **FPGA / DSP**: VHDL, Verilog, HLS
+### Languages & Utilities
+- **Python**: pytorch, tf, scipy, opencv, librosa etc.
+- **FPGA / DSP**: vhdl, Verilog, HLS
 - **Math**: MATLAB / GNU Octave
-- **C++** (a little)
-- **Web**: Js, HTML, CSS
-- **SQL** (a little)
-- Tcl / Tk, Latex, Markdown
-- Docker, git, svn, bash etc.
+- **C++** (basic knowledge)
+- **Web**: js, HTML, CSS
+- **SQL** (basic knowledge)
+- Docker, Airflow, git / svn, DVC, bash etc.
 
 ### Personal skills
 * Flexibility and Leadership skills
@@ -37,11 +36,11 @@ ____
 
 ### Job Experience
 
-| **Name** | **Last Role** | **Year** |
+| **Name** | **Last Role** | **Years** |
 | :---- | :---- | :---- |
 | [AO "Insys"](http://www.insys.ru) | Junior Hardware engineer | Aug. 2012 - Oct. 2012 |
 | [AO "Insys"](http://www.insys.ru) | Lead FPGA Developer | Jan. 2013 - Jan 2020 |
-| [Sberbank](https://www.sberbank.ru) | Senior Data Scientist | Feb. 2020 - Present |
+| [Sberbank](https://www.sberbank.ru) | Lead Data Scientist | Feb. 2020 - Present |
 
 #### AO "Insys": Aug. 2012 - Oct. 2012
 - Russia, Moscow
@@ -54,12 +53,13 @@ ____
   * Senior FPGA Developer: Jan. 2015 - Jan. 2017 
   * Lead FPGA Developer: Jan. 2017 - Jan. 2020 
 
-#### Sberbank: Feb. 2020 - Present
+#### SberDevices: Feb. 2020 - Present
 - Russia, Moscow
-  * Senior Data Scientist: Feb. 2020 - Present
+  * Senior Data Scientist: Feb. 2020 - Dec. 2020
+  * Lead Data Scientist: Jan. 2021 - Present
 
 ____
-### [Publications (habr.com)](https://habr.com/users/capitanov/)
+### [Publications](https://habr.com/users/capitanov/)
 - [Digital signal processing - Course](https://habr.com/ru/post/460445/)
 - [Ultra-long FFT implementation based on FPGA](https://habr.com/ru/post/526690/)
 - [Window filtration by FPGA](https://habr.com/en/post/427361/)
@@ -100,6 +100,10 @@ ____
 #### Deep Learning in Computer Vision
 [Coursera: Deep Learning in Computer Vision (HSE)](https://www.coursera.org/account/accomplishments/certificate/EWTTRB9MR9FB "Deep Learning in CV")
 
+#### Python
+- [Course 1: Diving in Python](https://www.coursera.org/account/accomplishments/certificate/TFK4K6VFSP5N "Diving in python")
+- [COurse 2: OOP and patterns](https://www.coursera.org/account/accomplishments/certificate/XB6PGQ58PK4V "OOP and patterns")
+
 #### Xilinx Coursers
 [Xilinx Russian Training Center](https://plis2.ru/training.html "Xilinx Russian Training Center")
 - [C-based Design: High Level Synthesis](https://github.com/capitanov/kapitanov.github.io/blob/master/Certificates/Xilinx/C-based_Design_High-Level_Synthesis.png "C-based Design: High Level Synthesis")
@@ -132,42 +136,32 @@ Speaker on the following scientific and technical conferences (Russian text as i
 ____
 ### FPGA and Hardware Background
 * Good knowledge of hardware languages: VHDL / Verilog
-* Understanding of FPGA full cycle development
 * Vendor-dependent code optimization for FPGA (Xilinx / Altera)
-* Custom IP-core and open-source development
 * Complex Area designs: more than 90% FPGA resources utilization
 * High-speed designs: multi-clock systems with more than 500 MHz clock frequency on FFs and DSPs
-* Digital signal processing: arithmetic implementation and optimization
 * Algorithm optimization to meet desired requirements / limitations
-* Digital signal processing for multi-channel / high-resolution ADCs / DACs up to 6GHz
-* Performance / Area FPGA design optimization, Advanced XDC & STA
-* Verification and production testing
-* Job routine optimization by using TCL / Python scripts
-* Knowledge of base interfaces: I2C, RS232, SPI, MIL-STD1553, DDR3/DDR4, Aurora 8b/10b, 64b/66b, etc.
+* Digital signal processing for multi-channel / high-resolution ADCs / DACs
+* Performance & Area FPGA design optimization, Advanced XDC & STA
+* Job routine optimization by using TCL & python scripts
 * Math analyze: MATLAB & Simulink (+ Xilinx System Generator) / GNU Octave / Python
-* High-level synthesis for DSP tasks (Vivado HLS)
-* Block design & Partial Reconfiguration for Xilinx FPGAs: 7-Series, Ultrascale, Ultrascale+
+* High-level synthesis for DSP projects (Vivado HLS)
+* Block design & Partial Reconfiguration
 * AXI-Stream, AXI-lite, custom interfaces design
-* SVN / Git, Redmine, Slack
 * Digital schemes development (Altium Designer): main interfaces, power supply, etc.
-* Software applications (C++, Qt mini-apps)
-* Developing corporate style guide and documentation for company and team-mates
+* Developing corporate style guide and documentation for company and teammates
 
 ### FPGA & Math Projects
-- Fast Fourier Transform: Forward / Inverse. Fixed-point, floating-point, scaled / unscaled. Decimation in time / frequency schemes. Radix-2, Radix-4. Natural and Bit/Digit-Reverse Order. 
-- Flexible configurable FFTs by length N. FFTs from 8 to 256K points. 
-- 2D FFTs, Ultra-long FFT from 1M to 64M points by using 2D-FFT algorithms and 3 high-speed DDR3/4 SDRAMs. 
-- Fast convolution (via FFTs): linear / circular convolution. Auto-correlation / Cross-correlation modules.
-- Dynamically Window filtrating: Hann, Hamming, Blackman-Harris (3-, 5-, 7-, 11-term), Flattop, Kaiser, etc. 
-- Filter Design: IIR, FIRs, CICs, Moving average filters. Decimators, interpolators, fractional re-samplers.
-- Hilbert Transform, DDS, NCO, CORDIC, M-coders, Chirp-generator, Taylor series schemes.
-- Parallel high-speed signal processing (poly-phase schemes: FFTs, filters, DDS. Polyphase factor: 2, 4, 8, 16). 
+- FFTs: Forward / Inverse. Fixed-point, floating-point, scaled / unscaled. Decimation in time / frequency schemes. Radix-2, Radix-4. Natural and Bit/Digit-Reverse Order.  
+- 2D FFTs, Ultra-long FFT from 1M to 64M points by using 2D-FFT algorithms and 3x high-speed DDR3/4 SDRAMs. 
+- Fast convolutions: linear / circular convolution. Auto-correlation / Cross-correlation modules.
+- Dynamically Window filtrating: Hann, Hamming, Blackman-Harris (3-, 5-, 7-, 11-term), Flat-top, Kaiser, etc. 
+- Filter Design: IIR, FIRs, CICs, moving average filters. Decimators, interpolators, fractional re-samplers.
+- Hilbert Transform, DDS, NCO, CORDIC, M-coders, Chirp-generator, Taylor series schemes. 
 - Floating point arithmetic. Custom floating point math pack: FP32 (IEEE-754), FP23, FP16. 
-- Universal configurator (Receiver / Transmitter) for multi-channel high-speed / high-resolution ADCs and DACs. JESD204B schemes. 
-- High-speed Xilinx Multi-Gigabit Transceiver protocols: SRIO, Aurora 8b/10b, 64b/66b, PROTEQ.
+- Universal configurator (Receiver / Transmitter) for multi-channel high-speed / high-resolution ADCs and DACs. JESD204B schemes.
 - Modulators / Demodulators: BPSK, QPSK, QAM-16, etc.
 - Hamming, BCH coders. Reed–Solomon error correctors.
 - Chaotic attractors: Lorenz, Nose-Hoover, Rossler, Rikitake, Chua, etc.
-- OFDM system for image processing (MATLAB code, master's thesis)
+- OFDM system for transferring and processing data
 
-Most of these project you can find as **open source** [solutions on my github](https://github.com/capitanov/).  
+Most of them as [**open source**](https://github.com/capitanov/).  
