@@ -1,8 +1,11 @@
 ## Kapitanov Alexander
 
 #### About:
-Lead Deep Learning Engineer (primarily in Computer Vision).  
+Lead Deep Learning Engineer (primarily in Computer Vision).
+
 Ex. Lead FPGA engineer, programmer and math analyst with over 7 years experience in Hardware Development and Digital Signal Processing based on FPGAs & SOCs.
+
+Current projects are based on image and video detection & tracking, image matting and segmentation, pose estimation, gesture recognition, image classification. Building MLOps for data mining, validation and data annotation pipelines.
 
 #### Interests:
 ML & DL, Data Science, math, software & hardware development, R&D.
