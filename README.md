@@ -1,14 +1,17 @@
 ## Kapitanov Alexander
 
 #### About:
-Lead Deep Learning Engineer (primarily in Computer Vision).
+Currently: **Team Lead** (R&D Computer Vision Team) at SberDevices.
 
-Ex. Lead FPGA engineer, programmer and math analyst with over 7 years experience in Hardware Development and Digital Signal Processing based on FPGAs & SOCs.
+Ex. Lead FPGA engineer with a demonstrated history of working in the digital electronics industry, hardware engineer and researcher. 7+ years in hardware development and digital signal processing (DSP). Author of some technical articles and participant in exhibitions and conferences.
 
-Current projects are based on image and video detection & tracking, image matting and segmentation, pose estimation, gesture recognition, image classification. Building MLOps for data mining, validation and data annotation pipelines.
+Deep learning expirience:
+- Object detection and tracking: training and evaluation loops for DL models (face & gesture recognition, pose tracking, people segmentation and video matting, classification etc.)
+- Neural network optimization: distillation, quantization, prunning, NAS etc.
+- Data mining and crowdsourcing: automatic mining, validation and annotation pipelines (MLOPS: aws, dvc, Airflow, MLflow etc.)
 
 #### Interests:
-ML & DL, Data Science, math, software & hardware development, R&D.
+Computer Science, R&D, AI, Software & Hardware development.
 
 |                     |                      |
 | :---------------    |:-------------        |
@@ -18,21 +21,23 @@ ML & DL, Data Science, math, software & hardware development, R&D.
 | **Residence**       | Russia, Moscow       |
 | **E-mail**          | `hidden`             |
 | **Main Languages**  | Python, VHDL/Verilog, Tcl/Tk, C++, sql, etc. |
-| **Current job**     | SBRF |
-| **Can speak**       | Russian (native), English (B2) |
+| **Current job**     | SberDevices |
+| **LinkedIn**        | [@hukenovs](https://www.linkedin.com/in/hukenovs/) |
+| **Habrahabr**       | [@hukenovs](https://habr.com/ru/users/hukenovs/) |
+| **Speak**           | Russian (native), English (B2) |
 
 ### Languages & Utilities
-- **Python**: pytorch, tf, scipy, opencv, librosa etc.
+- **Python**: pytorch, tf, scipy, opencv, librosa, flask, pandas etc.
 - **FPGA / DSP**: vhdl, Verilog, HLS
 - **Math**: MATLAB / GNU Octave
 - **C++** (basic knowledge)
 - **Web**: js, HTML, CSS
 - **SQL** (basic knowledge)
-- Docker, Airflow, git / svn, DVC, bash etc.
+- Docker, Airflow, MLFlow, git / svn, DVC, bash etc.
 
 ### Personal skills
 * Flexibility and Leadership skills
-* Desire to learn & Self-motivated to win
+* Desire to learn & self-motivated to win
 * Good inter-personal and planning skills
 * Critical thinking & Troubleshooting skills
 ____
@@ -81,31 +86,11 @@ ____
 ____
 
 ### Courses and certificates
-#### Machine Learning & Data Analysis - Specialization
-[Coursera: Machine learning & data analysis (Yandex & MIPT)](https://www.coursera.org/specializations/machine-learning-data-analysis "Coursera ML & DA")
-- [Course 1: Math and Python for data analysis](https://www.coursera.org/account/accomplishments/records/L4BGW84C79RA "Math and Python for data analysis")
-- [Course 2: Supervised Learning](https://www.coursera.org/account/accomplishments/records/AXR6626EMUJ3 "Supervised Learning")
-- [Course 3: Unsupervised_Learning](https://www.coursera.org/account/accomplishments/records/HSK4UU584858 "Unsupervised_Learning")
-- [Course 4: Stats for Data Analysis](https://www.coursera.org/account/accomplishments/records/KQTZ2CDRJ5UH "Stats for Data Analysis")
-- [Course 5: Data Analysis Applications](https://www.coursera.org/account/accomplishments/records/L7HMXKP9EKN2 "Data Analysis Applications")
-- [Course 6: Data Analysis: final project](https://www.coursera.org/account/accomplishments/records/U99XKAU4YYAR "Data Analysis: final project")
-- [Specialization: Machine Learning & Data Analysis](https://www.coursera.org/account/accomplishments/specialization/DC6QPH6QR2V7 "Specialization: ML & DA")
-
-#### Deep Learning - Specialization
-[Coursera: Deep Learning AI (Andrew Ng)](https://www.coursera.org/specializations/deep-learning "Deep Learning AI (Andrew Ng)")
-- [Course 1: Neural Networks and Deep Learning](https://www.coursera.org/account/accomplishments/records/98VC74JAA99K "Neural Networks and Deep Learning")
-- [Course 2: Improving Deep Neural Networks](https://www.coursera.org/account/accomplishments/records/UT4UT7BAB9GZ "Improving Deep Neural Networks")
-- [Course 3: Structuring Machine Learning Projects](https://www.coursera.org/account/accomplishments/records/XQVAWNGLKXDW "Structuring Machine Learning Projects")
-- [Course 4: Convolutional Neural Networks](https://www.coursera.org/account/accomplishments/records/4KKHUXNH66JV "Convolutional Neural Networks")
-- [Course 5: Sequence Models](https://www.coursera.org/account/accomplishments/records/8TCTRRX62HFH "Sequence Models")
-- [Specialization: Deep Learning](https://www.coursera.org/account/accomplishments/specialization/2YTZ8T6CC7P6 "Specialization Deep Learning Specialization")
-
-#### Deep Learning in Computer Vision
+- [Coursera Specialization: Machine Learning & Data Analysis](https://www.coursera.org/account/accomplishments/specialization/DC6QPH6QR2V7 "Specialization: ML & DA")
+- [Coursera Specialization: Deep Learning (Andrew Ng)](https://www.coursera.org/account/accomplishments/specialization/2YTZ8T6CC7P6 "Specialization Deep Learning Specialization")
 [Coursera: Deep Learning in Computer Vision (HSE)](https://www.coursera.org/account/accomplishments/certificate/EWTTRB9MR9FB "Deep Learning in CV")
-
-#### Python
-- [Course 1: Diving in Python](https://www.coursera.org/account/accomplishments/certificate/TFK4K6VFSP5N "Diving in python")
-- [COurse 2: OOP and patterns](https://www.coursera.org/account/accomplishments/certificate/XB6PGQ58PK4V "OOP and patterns")
+- [Course: Diving in Python](https://www.coursera.org/account/accomplishments/certificate/TFK4K6VFSP5N "Diving in python")
+- [COurse: OOP and patterns](https://www.coursera.org/account/accomplishments/certificate/XB6PGQ58PK4V "OOP and patterns")
 
 #### Xilinx Coursers
 [Xilinx Russian Training Center](https://plis2.ru/training.html "Xilinx Russian Training Center")
